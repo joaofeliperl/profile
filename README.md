@@ -1,11 +1,28 @@
-<img src="https://github.com/pr2tik1/pr2tik1/blob/master/IMAGE-NAME">
+- 👋 Hi, I’m João Felipe
+- 👀 I'm interested in learning today's most used methods and frameworks. I hope I can help you.
+- 🌱 I'm currently using the following frameworks for development and test: Frontend (JS, React), Backend (Flask), Mobile (React Native) and Test (Cypress, Selenium).
 
-### Hi 👋
-I am recent engineering graduate looking for opportunities and collabaration in projects related to data science and deep learning.
-- 🔭 I’m currently working on image classification (also, I am brushing up my data structures and algorithms skills regularly).
-- 🌱 I’m currently learning Computer Vision and Deep Learning techniques using PyTorch.
-- 🤝 I’m looking to collaborate on data science and deep learning projects. 
+<!---
+joaofeliperl/joaofeliperl is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+You can click the Preview link to take a look at your changes.
+--->
 
-![YOUR github stats](https://github-readme-stats.vercel.app/api?username=USERNAME)
 
-[<img src="https://img.shields.io/badge/twitter-%231DA1F2.svg?&style=for-the-badge&logo=twitter&logoColor=white" />](https://twitter.com/USERNAME) [<img src="https://img.shields.io/badge/medium-%2312100E.svg?&style=for-the-badge&logo=medium&logoColor=white" />](https://medium.com/USERNAME)  [<img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />](https://www.linkedin.com/in/USERNAME/) [<img src = "https://img.shields.io/badge/instagram-%23E4405F.svg?&style=for-the-badge&logo=instagram&logoColor=white">](https://www.instagram.com/USERNAME/) [<img src = "https://img.shields.io/badge/facebook-%231877F2.svg?&style=for-the-badge&logo=facebook&logoColor=white">](https://www.facebook.com/USERNAME)
+<div style="display: inline_block"><br>
+ <img align="center" alt="HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
+  <img align="center" alt="CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
+  <img align="center" alt="Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
+  <img align="center" alt="Cypress" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/jmeter/jmeter-plain.svg">
+  <img align="center" alt="React" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
+  <img align="center" alt="Selenium" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/selenium/selenium-original.svg">
+ 
+</div>
+  
+  ##
+ 
+<div> 
+  <a href = "mailto:joaofeliperodriguesleandro@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
+  <a href="https://www.linkedin.com/in/jfeliperl/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
+ 
+ 
+</div>
