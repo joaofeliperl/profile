@@ -1,6 +1,6 @@
 - 👋 Hi, I’m João Felipe
 - 👀 I'm interested in learning today's most used methods and frameworks. I hope I can help you.
-- 🌱 I'm currently using the following frameworks for development and test: Frontend (JS, React), Backend (Flask), Mobile (React Native) and Test (Cypress, Selenium).
+- 🌱 I'm currently using the following frameworks for development and test: Frontend (JS, React), Backend (Flask) and Test (Cypress, Selenium).
 
 <!---
 joaofeliperl/joaofeliperl is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
